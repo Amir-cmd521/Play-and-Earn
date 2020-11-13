@@ -1,2 +1,1 @@
 # Play-and-Earn
-Hello
